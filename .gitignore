@@ -1,7 +1,10 @@
+.streamlit/secrets.toml
+*.db
+__pycache__/
+venv/
 /admin.py
 /auth.py
 /donations.csv
-/email_service.py
 /new.py
 /requests.csv
 /__pycache__
